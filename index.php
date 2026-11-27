@@ -7,7 +7,7 @@ use Pbo\Marketplace\Produk;
 //object
 $produk = new produk();
 
-$produk->setKode('P001')->setNama('Laptop')->setHarga(10000000)->setStok(5);
+$produk->setKode('P0001')->setNama('Laptop')->setHarga(10000000)->setStok(5);
 //$produk->kode = 'P0001';
 //$produk->nama = 'Laptop';
 // $produk->harga = '10000000';
